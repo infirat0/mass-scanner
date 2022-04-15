@@ -36,7 +36,7 @@ Explanation:
 * <code> +44@@@@@@@@35</code> is of course the prefix <code> +44</code> the missing numbers <code> @@@@@@@@</code> and the last two digits <code> 35</code> which you might have found through password reset as explained earlier.
 * <code> > numbers.txt</code> tells crunch where to save the list we created
 
-This will generate about 100 million numbers, but not worry!
+This will generate about 100 million numbers.
 
 Using the script:
 
