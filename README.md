@@ -46,6 +46,6 @@ If you're lucky then the 100 million numbers will reduce to 100-200
 
 Always remember than knowing more digits related to the number will greatly increase your chances of finding it
 
-I hope you enjoy it!
+I hope you enjoy.
   
   
