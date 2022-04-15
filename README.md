@@ -33,7 +33,7 @@ Explanation:
 * <code> 13 13</code> is the length of the phone number
 * <code> 0123456789</code> will be used to fill the missing numbers
 * <code> -t</code> tells crunch where to fill the missing numbers which in this case is <code> @</code>
-* <code> +44@@@@@@@@35</code> is of course the prefix <code> +44</code> the missing numbers <code> @@@@@@@@</code> and the last two digits <code> 35</code> which you might have found through password reset as explained earlier.
+* <code> +44@@@@@@@@35</code> is the number <code> +44</code> is the prefix <code> @@@@@@@@</code> are the missing numbers <code> 35</code> the last two digits which you might have found through password reset as explained earlier.
 * <code> > numbers.txt</code> tells crunch where to save the list we created
 
 This will generate about 100 million numbers.
